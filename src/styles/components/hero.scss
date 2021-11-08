@@ -84,3 +84,10 @@
 .my-card img:hover {
     transform: scale(1.01);
 }
+
+
+.list-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
